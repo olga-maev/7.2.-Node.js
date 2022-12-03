@@ -18,5 +18,8 @@
   "homepage": "https://github.com/olga-maev/7.2.-Node.js#readme",
   "dependencies": {
     "eslint": "^8.29.0"
+  },
+  "devDependencies": {
+    "prettier": "2.8.0"
   }
 }
