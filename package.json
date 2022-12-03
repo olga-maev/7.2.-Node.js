@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/olga-maev/7.2.-Node.js/issues"
   },
-  "homepage": "https://github.com/olga-maev/7.2.-Node.js#readme"
+  "homepage": "https://github.com/olga-maev/7.2.-Node.js#readme",
+  "dependencies": {
+    "eslint": "^8.29.0"
+  }
 }
